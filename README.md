@@ -2,9 +2,7 @@
 
 노션: https://seokjuna.notion.site/16-7dbb01e2329a431199ea01b4af85cc43
 
-<img width="500" alt="vanilla-redux" src="https://user-images.githubusercontent.com/102382351/207565552-551ea867-4778-47ca-8432-88a987566957.png">
-
-** 리덕스 기보 개념<br>
+** 리덕스 기본 개념<br>
 1. 액션
 - 상태에 어떠한 변화가 필요하면 액션이란 것이 발생 (하나의 객체로 표현)
 - 액션 객체는 type 필드를 (액션의 이름) 반드시 가지고 있어야 함
@@ -72,3 +70,5 @@ const unsubscribe = store.subscribe(listener);
 
 unsubscribe(); // 추후 구독을 비활성화할 때 함수를 호출
 ```
+
+<img width="500" alt="vanilla-redux" src="https://user-images.githubusercontent.com/102382351/207565552-551ea867-4778-47ca-8432-88a987566957.png">
