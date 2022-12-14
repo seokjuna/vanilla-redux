@@ -1,0 +1,8 @@
+{
+  "name": "vanilla-redux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/seokjuna/vanilla-redux.git",
+  "author": "naseokju <lukas95@naver.com>",
+  "license": "MIT"
+}
